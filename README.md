@@ -8,6 +8,12 @@ Cardápio interativo de uma hamburgueria desenvolvido com **HTML**, **CSS** e **
 
 ---
 
+## 🚀 Demonstração
+
+Link do projeto: https://eduardoadf-dev.github.io/Dev-Burguer/
+
+---
+
 ## 📋 Sobre o projeto
 
 O **DevClub Burguer** é um cardápio digital interativo onde o usuário pode visualizar os produtos de uma hamburgueria e interagir com eles através de botões que demonstram na prática o funcionamento dos métodos de array do JavaScript.
@@ -87,7 +93,7 @@ devclub-burguer/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/devclub-burguer.git
+git clone https://github.com/eduardoadf-dev/Dev-Burguer.git
 ```
 
 2. Acesse a pasta do projeto:
