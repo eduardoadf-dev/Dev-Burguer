@@ -20,7 +20,7 @@ O **DevClub Burguer** é um cardápio digital interativo onde o usuário pode vi
 
 ---
 
-## 🚀 Funcionalidades
+## ✨ Funcionalidades
 
 | Botão | Método JS | O que faz |
 |---|---|---|
